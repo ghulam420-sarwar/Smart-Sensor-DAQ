@@ -2,7 +2,7 @@
 
 Multi-sensor environmental data acquisition system built on ESP32. Samples temperature, humidity and pressure over **I²C** (BME280) and a secondary temperature over **1-Wire** (DS18B20), streams CSV frames over USB-serial, and is evaluated by a Python host tool that performs automatic range checks and plots.
 
-![Circuit diagram]([images/circuit_diagram.png](https://github.com/ghulam420-sarwar/Smart-Sensor-DAQ/blob/main/circuit_diagram.png))
+![Circuit diagram](https://github.com/ghulam420-sarwar/Smart-Sensor-DAQ/blob/main/circuit_diagram.png)
 
 ## Highlights
 
